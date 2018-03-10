@@ -6,6 +6,6 @@ A Flutter project of book app UI from prototype originally by Travis.
 
 You can find the video tutorial of this project on youtube, check this out
 
-[Beautiful Book App UI From Prototype to App with Flutter](https://youtu.be/efbB8-x9T2c) 
+[Beautiful Book App UI From Prototype to App with Flutter](https://youtu.be/vyugtXBUaCU) 
 
 ![Book App Flutter](https://raw.githubusercontent.com/putraxor/flutter-book-app/master/art/thumbnail.png)
