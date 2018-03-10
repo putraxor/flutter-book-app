@@ -1,0 +1,32 @@
+title, writer, price, image, rating, pages
+
+description = Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id neque libero. Donec finibus sem viverra, luctus nisi ac, semper enim. Vestibulum in mi feugiat, mattis erat suscipit, fermentum quam. Mauris non urna sed odio congue rhoncus. \nAliquam a dignissim ex. Suspendisse et sem porta, consequat dui et, placerat tortor. Sed elementum nunc a blandit euismod. Cras condimentum faucibus dolor. Etiam interdum egestas sagittis. Aliquam vitae molestie eros. Cras porta felis ac eros pellentesque, sed lobortis mi eleifend. Praesent ut.
+
+
+
+CorelDraw untuk Tingkat Pemula Sampai Mahir
+Jubilee Enterprise
+
+Buku Pintar Drafter
+Widada
+
+Adobe InDesign Komplet
+Jubilee Enterprise
+
+Pemodelan Objek Dengan 3Ds Max 2014
+Wahana Komputer
+
+Penerapan Visualisasi 3D Dengan Autodesk Maya
+Dhani Ariatmanto
+
+Lancar Menggunakan Adobe Photoshop
+Jubilee Enterprise
+
+Adobe Premiere Komplet
+Jubilee Enterprise
+
+Cad Series : Google Sketchup
+Wahana Komputer
+
+Webmaster Series : Menguasai Css
+Wahana Komputer
